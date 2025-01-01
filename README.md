@@ -1,2 +1,2 @@
-# DS
-Data Science project
+# AWS
+AWS Project
